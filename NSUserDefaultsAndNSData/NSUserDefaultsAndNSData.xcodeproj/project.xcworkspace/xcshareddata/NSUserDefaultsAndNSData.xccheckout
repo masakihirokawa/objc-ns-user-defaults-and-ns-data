@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C3551791-948A-4B2A-83E4-CD7751304267</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSUserDefaultsAndNSData</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>553FCC5D-23FE-410E-ACC6-08B512F441A4</key>
+		<string>https://github.com/masakihirokawa/objc-ns-user-defaults-and-ns-data.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSUserDefaultsAndNSData/NSUserDefaultsAndNSData.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>553FCC5D-23FE-410E-ACC6-08B512F441A4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/masakihirokawa/objc-ns-user-defaults-and-ns-data.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>553FCC5D-23FE-410E-ACC6-08B512F441A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>553FCC5D-23FE-410E-ACC6-08B512F441A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objc-ns-user-defaults-and-ns-data</string>
+		</dict>
+	</array>
+</dict>
+</plist>
